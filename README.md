@@ -7,9 +7,10 @@ Welcome on board mousaillon :) <br/>
     Ruby version 2.5.1
     Rails version 5.2.0
 
-### Please check to use :
+### Please check to test :
 
 $ bundle install <br/>
+$ rails db:migrate <br/>
 $ rails db:seed
 
 ### Tables created with ActiveRecord
