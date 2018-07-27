@@ -9,7 +9,7 @@ Welcome on board mousaillon :) <br/>
 
 ### Please check to use :
 
-$ bundle install
+$ bundle install <br/>
 $ rails db:seed
 
 ### Tables created with ActiveRecord
